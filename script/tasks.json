@@ -1,0 +1,10 @@
+[
+    {
+        "task": "Learn Git",
+        "completed": false
+    },
+    {
+        "task": "Learn Django",
+        "completed": false
+    }
+]
